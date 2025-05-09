@@ -34,4 +34,6 @@ Libraries: Pandas, SQLAlchemy, Plotly, Seaborn, Matplotlib
 🧾 Late Shipments by Supplier
 
 🏪 Inventory Health – stock levels vs demand
+
 🧮 ABC Distribution – inventory value classification
+
