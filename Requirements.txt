@@ -1,0 +1,17 @@
+# Core Data Analysis
+pandas
+
+# Database Connectivity
+sqlalchemy
+psycopg2
+
+# Visualization
+plotly
+matplotlib
+seaborn
+
+# Notebook Support
+jupyter
+ipykernel
+ipywidgets
+
